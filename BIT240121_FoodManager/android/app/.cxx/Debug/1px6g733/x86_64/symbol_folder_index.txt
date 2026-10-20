@@ -1,0 +1,1 @@
+C:\BIT240121_FoodManager\android\app\build\intermediates\cxx\Debug\1px6g733\obj\x86_64

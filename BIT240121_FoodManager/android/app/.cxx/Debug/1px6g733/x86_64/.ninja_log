@@ -1,0 +1,6 @@
+# ninja log v5
+5	70	0	C:/BIT240121_FoodManager/android/app/.cxx/Debug/1px6g733/x86_64/CMakeFiles/cmake.verify_globs	c4935ed8e2c1f511
+15	6106	8141907127298281	CMakeFiles/appmodules.dir/C_/BIT240121_FoodManager/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	278371e5a8b8cbaa
+1	6412	8141907130307945	CMakeFiles/appmodules.dir/OnLoad.cpp.o	1f8b7c8fc57ab03a
+6412	6616	8141907132319264	C:/BIT240121_FoodManager/android/app/build/intermediates/cxx/Debug/1px6g733/obj/x86_64/libappmodules.so	28b7c25f41a8150f
+22	127	0	C:/BIT240121_FoodManager/android/app/.cxx/Debug/1px6g733/x86_64/CMakeFiles/cmake.verify_globs	c4935ed8e2c1f511

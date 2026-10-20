@@ -1,0 +1,4 @@
+C:/BIT240121_FoodManager/android/app/.cxx/Debug/1px6g733/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/BIT240121_FoodManager/android/app/.cxx/Debug/1px6g733/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/BIT240121_FoodManager/android/app/.cxx/Debug/1px6g733/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/BIT240121_FoodManager/android/app/.cxx/Debug/1px6g733/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

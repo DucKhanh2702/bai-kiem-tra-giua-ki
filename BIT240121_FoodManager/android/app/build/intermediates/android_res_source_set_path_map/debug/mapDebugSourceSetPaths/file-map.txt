@@ -1,0 +1,9 @@
+com.anonymous.BIT240121_FoodManager.app-pngs-0 C:\BIT240121_FoodManager\android\app\build\generated\res\pngs\debug
+com.anonymous.BIT240121_FoodManager.app-resValues-1 C:\BIT240121_FoodManager\android\app\build\generated\res\resValues\debug
+com.anonymous.BIT240121_FoodManager.app-updated_navigation_xml-2 C:\BIT240121_FoodManager\android\app\build\generated\updated_navigation_xml\debug
+com.anonymous.BIT240121_FoodManager.app-packageDebugResources-3 C:\BIT240121_FoodManager\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.anonymous.BIT240121_FoodManager.app-packageDebugResources-4 C:\BIT240121_FoodManager\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.anonymous.BIT240121_FoodManager.app-debug-5 C:\BIT240121_FoodManager\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.anonymous.BIT240121_FoodManager.app-debug-6 C:\BIT240121_FoodManager\android\app\src\debug\res
+com.anonymous.BIT240121_FoodManager.app-main-7 C:\BIT240121_FoodManager\android\app\src\main\res
+gradleHome-0 C:\Users\K27\.gradle
